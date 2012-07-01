@@ -1,0 +1,10 @@
+syntax:glob
+
+.livereload
+
+.git
+.DS_Store
+*.pyc
+
+.env
+*.egg-info

@@ -1,0 +1,2 @@
+ZoomWin.vba: call delete('/Volumes/Data/anton/.vim/plugin/ZoomWinPlugin.vim')|call delete('/Volumes/Data/anton/.vim/doc/ZoomWin.txt')|call delete('/Volumes/Data/anton/.vim/autoload/ZoomWin.vim')
+html5.vim-0.27.vba: call delete('/Volumes/Data/anton/.vim/autoload/htmlcomplete.vim')

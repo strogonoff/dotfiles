@@ -1,0 +1,10 @@
+.hg
+.svn
+*.pyc
+.DS_Store
+*.egg-info
+.epio-app
+
+.rvmrc
+.hgignore
+node_modules

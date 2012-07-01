@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/anton/.heroku/client/lib'
+let g:netrw_dirhist_2='/Users/anton/.heroku/client/lib/heroku'
+let g:netrw_dirhist_3='/Users/anton/Development/test'
+let g:netrw_dirhist_4='/Users/anton/Development/odeskpsdocs/rtd/requirements'
+let g:netrw_dirhist_5='/Users/anton/Development/fivs/repo/.git'
