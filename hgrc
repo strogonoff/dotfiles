@@ -1,0 +1,34 @@
+[ui]
+username = Anton <anton@example.com>
+verbose = True
+ignore = ~/.hgignore
+
+[auth]
+# Snip
+
+[defaults]
+diff = -p
+qnew = -D
+qrefresh = -D
+#log = --graph --style compact
+#outgoing = --graph
+#incoming = --graph
+
+[diff]
+git=1
+
+[extdiff]
+cmd.vimdiff = vim
+opts.vimdiff = -f '+next' '+execute "DirDiff" argv(0) argv(1)'
+
+[extensions]
+convert = 
+hgext.record =
+pager =
+
+[alias]
+untrack = rm -Af
+
+[pager]
+pager = LESS='FSRX' less
+attend = annotate, cat, diff, export, glog, log, qdiff, help
