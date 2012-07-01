@@ -1,5 +1,7 @@
 call pathogen#runtime_append_all_bundles()
 
+" This is a mess
+
 set nocompatible
 
 " Enable copying in OS X
